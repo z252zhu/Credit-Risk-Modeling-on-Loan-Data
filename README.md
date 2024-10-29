@@ -234,31 +234,31 @@ The dataset is derived from public dataset on Kaggle ([link](https://www.kaggle.
 
 - **zip_code** The first 3 numbers of the zip code provided by the borrower in the loan application
 
-- **revol_bal_joint **  Sum of revolving credit balance of the co-borrowers, net of duplicate balances
+- **revol_bal_joint**  Sum of revolving credit balance of the co-borrowers, net of duplicate balances
 
-- **sec_app_fico_range_low **  FICO range (high) for the secondary applicant
+- **sec_app_fico_range_low**  FICO range (high) for the secondary applicant
 
-- **sec_app_fico_range_high **  FICO range (low) for the secondary applicant
+- **sec_app_fico_range_high**  FICO range (low) for the secondary applicant
 
-- **sec_app_earliest_cr_line **  Earliest credit line at time of application for the secondary applicant
+- **sec_app_earliest_cr_line**  Earliest credit line at time of application for the secondary applicant
 
-- **sec_app_inq_last_6mths **  Credit inquiries in the last 6 months at time of application for the secondary applicant
+- **sec_app_inq_last_6mths**  Credit inquiries in the last 6 months at time of application for the secondary applicant
 
-- **sec_app_mort_acc **  Number of mortgage accounts at time of application for the secondary applicant
+- **sec_app_mort_acc**  Number of mortgage accounts at time of application for the secondary applicant
 
-- **sec_app_open_acc **  Number of open trades at time of application for the secondary applicant
+- **sec_app_open_acc**  Number of open trades at time of application for the secondary applicant
 
-- **sec_app_revol_util **  Ratio of total current balance to high credit/credit limit for all revolving accounts
+- **sec_app_revol_util**  Ratio of total current balance to high credit/credit limit for all revolving accounts
 
 - **sec_app_open_act_il**  Number of currently active installment trades at time of application for the secondary applicant
 
-- **sec_app_num_rev_accts **  Number of revolving accounts at time of application for the secondary applicant
+- **sec_app_num_rev_accts**  Number of revolving accounts at time of application for the secondary applicant
 
-- **sec_app_chargeoff_within_12_mths **  Number of charge-offs within last 12 months at time of application for the secondary applicant
+- **sec_app_chargeoff_within_12_mths**  Number of charge-offs within last 12 months at time of application for the secondary applicant
 
-- **sec_app_collections_12_mths_ex_med **  Number of collections within last 12 months excluding medical collections at time of application for the secondary applicant
+- **sec_app_collections_12_mths_ex_med**  Number of collections within last 12 months excluding medical collections at time of application for the secondary applicant
 
-- **sec_app_mths_since_last_major_derog **  Months since most recent 90-day or worse rating at time of application for the secondary applicant
+- **sec_app_mths_since_last_major_derog**  Months since most recent 90-day or worse rating at time of application for the secondary applicant
 
 - **hardship_flag** Flags whether or not the borrower is on a hardship plan
 
