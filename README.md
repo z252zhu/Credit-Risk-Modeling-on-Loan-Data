@@ -50,9 +50,9 @@ The dataset is derived from public dataset on Kaggle ([link](https://www.kaggle.
 
 - **fico_range_low** The lower boundary range the borrower’s FICO at loan origination belongs to
 
-- **funded_amnt** The total amount committed to that loan at that point in time
+- **funded_amnt** The  amount committed to that loan at that point in time
 
-- **funded_amnt_inv** The total amount committed by investors for that loan at that point in time
+- **funded_amnt_inv** The  amount committed by investors for that loan at that point in time
 
 - **grade** LC assigned loan grade
 
@@ -224,7 +224,7 @@ The dataset is derived from public dataset on Kaggle ([link](https://www.kaggle.
 
 - **total_rec_prncp** Principal received to date
 
-- **total_rev_hi_lim  ** Total revolving high credit/credit limit
+- **total_rev_hi_lim** Total revolving high credit/credit limit
 
 - **url** URL for the LC page with listing data
 
