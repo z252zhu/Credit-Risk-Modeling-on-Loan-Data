@@ -2,7 +2,7 @@
 
 ## Dataset Information
 
-The dataset is derived from public dataset on Kaggle ([link](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv)). The Lending Club dataset contains complete loan data for all loans issued through the 2007-2015. Features/variables include credit scores, number of finance inquiries, address including zip codes and state, and collections among others. The data is in CSV format with 2,260,668 rows and 145 columns originally. 
+The data is derived from a public dataset on Kaggle ([link](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv)). The Lending Club dataset contains complete loan data for all loans issued through the 2007-2015. Features/variables include credit scores, number of finance inquiries, address including zip codes and state, and collections among others. The data is in CSV format with 2,260,668 rows and 145 columns originally. 
 
 - **acc_now_delinq** The number of accounts on which the borrower is now delinquent
 
